@@ -2,7 +2,7 @@
 
 <h1 align="left">👋 Hi, I'm Venkata Narendra Reddy </h1>
 <h3 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=MERN+Stack+Developer;Full-Stack+Engineer;React+%7C+Node+%7C+MongoDB+%7C+Express" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=MERN+Stack+Developer;Full-Stack+Engineer" />
 </h3>
 
 - 👨‍💻 Passionate MERN Stack Developer from India.
@@ -28,6 +28,7 @@
 <h3 align="left">🚀 Tech Stack:</h3>
 <div align="left">
 
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
