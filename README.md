@@ -2,7 +2,7 @@
 
 <h1 align="left">👋 Hi, I'm Venkata Narendra Reddy </h1>
 <h3 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=MERN+Stack+Developer;Full-Stack+Engineer;React+%7C+Node+%7C+MongoDB+%7C+Express;AI+%26+Web+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=MERN+Stack+Developer;Full-Stack+Engineer;React+%7C+Node+%7C+MongoDB+%7C+Express" />
 </h3>
 
 - 👨‍💻 Passionate MERN Stack Developer from India.
